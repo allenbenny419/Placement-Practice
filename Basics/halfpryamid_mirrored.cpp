@@ -6,7 +6,7 @@
  ****
 *****
     */
-   
+
 #include <iostream>
 
 using namespace std;
@@ -21,8 +21,6 @@ int main(){
                 continue;
             }
             cout<<"*";
-
-
         }
         cout<<endl;
     }
