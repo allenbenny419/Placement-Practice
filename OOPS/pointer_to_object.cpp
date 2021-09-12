@@ -26,6 +26,4 @@ int main(){
     p->print();
     (*p).print();
 
-    
-
 }
